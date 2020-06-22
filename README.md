@@ -1,6 +1,6 @@
 # Election_analysis
 
-Analyze data in a csv file and compile code to create txt file
+Analyze data in a csv file and compile python code to create txt file
 
 ###Challenge
 
