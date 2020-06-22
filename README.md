@@ -10,7 +10,7 @@ created a list of counties
 
 created a dictonary of the counties and vote count for each
 
-wrote a forloop condition within if statement that add counties if not not listed
+wrote a forloop condition within if statement that add counties if not listed
 
 Found the largest voter turnout by county
 
