@@ -1,9 +1,0 @@
--------------------------
-Largest Voter Turnout: Denver
--------------------------
-Loser Candidate:
-
-Losing Candidate: Raymon Anthony Doane
-Vote Count: 11,606
-Percentage: 3.1%
--------------------------
